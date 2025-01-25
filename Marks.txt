@@ -1,0 +1,5 @@
+22L-6752	Applied-Physics	Sharoz-Rafeeh	100	65	C+
+
+25L-6752	Islamiat	Usama	10	5	C-
+
+25L-6752	Islamiat	Usama	10	7	B-

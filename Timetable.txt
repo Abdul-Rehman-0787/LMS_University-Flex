@@ -1,0 +1,6 @@
+; ; ; ; ;                    Time-Table .
+Starting->Time ;            8 : 30 am .
+Closing->Time ;   ;          2 : 30 pm .
+.
+.
+It's for Every Student & Faculty Member!. 

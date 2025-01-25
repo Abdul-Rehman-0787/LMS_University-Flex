@@ -1,0 +1,15 @@
+
+Publication-ID-> B-000	Book-Title->C++ 	Author->ABD	Subscribers->350
+
+Publication-ID-> B-007	Book-Title->Lord	Author->Al-Riaz	Subscribers->54
+
+Publication-ID-> B-001	Book-Title->AZADI	Author->USAMA	Subscribers->24
+
+Publication-ID-> B-004	Book-Title->BANGALI	Author->BABA	Subscribers->69
+
+Publication-ID-> B-005	Book-Title->Urdu	Author->Arbaz	Subscribers->80
+
+Publication-ID-> B-111	Book-Title->WAR  	Author->ALI	Subscribers->100
+
+Publication-ID-> B-006	Book-Title->RIAZI	Author->RIAZ	Subscribers->22
+
